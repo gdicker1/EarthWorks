@@ -5,6 +5,7 @@ libraries/
 share/
 ccs_config/
 tools/statistical_ensemble_test/
+tools/ewms-*/
 
 # generated local files
 *.log
